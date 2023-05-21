@@ -1,0 +1,5 @@
+*.blend[0-9]*
+*.import
+*.material
+*.cfg
+Build/
